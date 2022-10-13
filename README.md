@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá 👋 sou Diego!
+🎯Empreendedor / 📈Estudante Administração / 🌱Iniciando Python / ❤️Mundo tech
+
+##
+
+
 
 <!--
 **Diegolmota/diegolmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
