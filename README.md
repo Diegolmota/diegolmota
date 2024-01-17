@@ -1,5 +1,5 @@
 ### Olá 👋 sou Diego!
-🎯Empreendedor / 📈Estudante Administração / 🌱Iniciando Python / ❤️Mundo tech
+🎯Empreendedor / 📈Estudante Administração / ❤️Mundo tech
 
 ##
 
